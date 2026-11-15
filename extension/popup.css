@@ -1,0 +1,21 @@
+/* General styling */
+body {
+    width: 320px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fc;
+}
+
+/* Main heading */
+h1 {
+    margin-bottom: 5px;
+}
+
+/* Website status section */
+.status {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+}
